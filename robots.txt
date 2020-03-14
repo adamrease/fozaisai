@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aishohvai.emor.me/sitemap.xml
